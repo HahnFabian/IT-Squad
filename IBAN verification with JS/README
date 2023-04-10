@@ -1,0 +1,5 @@
+In Code müssen die Felder 'ANSWER-YOU-WANT-TO-CHECK' und 'MOVE-NEXT-BUTTON' ersetzt werden. Die IDs findet man im Inspektor, wenn man die Umfrage als preview anzeigen lässt.
+
+Zusätzlich würde ich noch "/^([A-Z]{2})(\d{2})([A-Z\d]+)$/" zur Regex Validation hinzufügen.
+
+-FH
